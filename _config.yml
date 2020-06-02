@@ -29,7 +29,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
-lang: ZH_HANS # the language of your site, default as "en"
+lang: zh-Hans # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -57,7 +57,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: tangp69/tangp69.github.io #user_name/repo_name
 repository_tree: master
 
 
