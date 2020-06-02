@@ -73,3 +73,28 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /publications.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Members
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  组内成员
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  组内成员
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       Members
+      ko-KR   : *KO
+      fr      : &FR       Members
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /members.html
