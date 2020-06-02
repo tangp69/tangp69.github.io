@@ -26,46 +26,48 @@ titles:
 key: page-about
 ---
 
+# 主要研究成果
+
 ## 承担科研项目
 
-企业合作项目：浙江万凯新材料有限公司“PET的工程化改性开发”，2018.1-2019.12，项目负责人
+- 企业合作项目：浙江万凯新材料有限公司“PET的工程化改性开发”，2018.1-2019.12，项目负责人
 
-国家自然科学基金“非平衡态外场下高分子复杂流体相行为研究（20474012）”，2005.1-2007.12，项目负责人
+- 国家自然科学基金“非平衡态外场下高分子复杂流体相行为研究（20474012）”，2005.1-2007.12，项目负责人
 
-国家自然科学基金“非均相高分子体系动力学及其介观分子模型（20674012）”，2007.1-2009.12，项目负责人
+- 国家自然科学基金“非均相高分子体系动力学及其介观分子模型（20674012）”，2007.1-2009.12，项目负责人
 
-国家自然科学基金“半刚性高分子相行为的场论模拟及其应用（20874020）”，2009.1-2011.12，项目负责人
+- 国家自然科学基金“半刚性高分子相行为的场论模拟及其应用（20874020）”，2009.1-2011.12，项目负责人
 
-国家自然科学基金国际合作项目“接枝在无机粒子表面、结构明确的双组分聚合物刷的纳米级微组装行为研究（51011120384）”，2011.1-2013.12，项目负责人
+- 国家自然科学基金国际合作项目“接枝在无机粒子表面、结构明确的双组分聚合物刷的纳米级微组装行为研究（51011120384）”，2011.1-2013.12，项目负责人
 
-基金委重大计划培育项目“具有链刚性的高分子体系的自组装及相变机理（91127033）”，2012.1-2014.12，项目负责人
+- 基金委重大计划培育项目“具有链刚性的高分子体系的自组装及相变机理（91127033）”，2012.1-2014.12，项目负责人
 
-国家自然科学基金“半刚性高分子相行为的场论模拟及其应用（20874020）”，2009.1-2011.12，项目负责人
+- 国家自然科学基金“半刚性高分子相行为的场论模拟及其应用（20874020）”，2009.1-2011.12，项目负责人
 
-国家自然科学基金重大项目“非理想高分子链的凝聚态结构及其转变：电中性半刚性高分子统计理论和动力学模拟” 20990231 ，2010.1-2013.12，项目骨干
+- 国家自然科学基金重大项目“非理想高分子链的凝聚态结构及其转变：电中性半刚性高分子统计理论和动力学模拟” 20990231 ，2010.1-2013.12，项目骨干
 
-科技部973“聚烯烃的多重结构及其高性能化基础研究” 2005CB623807，2005.1-2010.8，项目骨干
+- 科技部973“聚烯烃的多重结构及其高性能化基础研究” 2005CB623807，2005.1-2010.8，项目骨干
 
-科技部863“基于PAN链与凝聚态结构的高强度碳纤维新工艺研究” 2008AA03210，2009.1-2012.12，项目骨干
+- 科技部863“基于PAN链与凝聚态结构的高强度碳纤维新工艺研究” 2008AA03210，2009.1-2012.12，项目骨干
 
-成都国和科技有限公司“十一五”国家科技支撑计划重点项目 “环境友好型油墨\树脂及复合胶关键技术研究与产业化”2007BAE56B00，2007.1-2011.12，项目骨干
+- 成都国和科技有限公司“十一五”国家科技支撑计划重点项目 “环境友好型油墨\树脂及复合胶关键技术研究与产业化”2007BAE56B00，2007.1-2011.12，项目骨干
 
-科技部973“高性能碳纤维相关重大问题的基础研究” 2011CB605700，2011.1-2015.8，项目骨干
+- 科技部973“高性能碳纤维相关重大问题的基础研究” 2011CB605700，2011.1-2015.8，项目骨干
 
 ## 教授课程
 
-本科通识教育核心课程“无处不在的大分子”
+- 本科通识教育核心课程“无处不在的大分子”
 
-专业选修课“高分子材料结构性能与应用”
+- 专业选修课“高分子材料结构性能与应用”
 
-书院本科课程“跨入科学研究之门-计算机的应用”
+- 书院本科课程“跨入科学研究之门-计算机的应用”
 
 ## 发表论文
 
-点击右侧PDF按钮即可下载；文献下载仅供个人学习使用，不得用于任何商业目的
-
-| 0    | Liu, F.    Q; Sun, T. J.; Tang, P.*; Zhang, H. D and Qiu, F. 'Understanding chain    folding morphology of semicrystalline polymers based on a rod–coil    multiblock model', Soft Matter 2017, 13: 8250-8263. |<a href="https://github.com/tangp69/papers/raw/master/LiuFQ-2017.pdf" target="_blank">Download</a>|
+点击右侧 Download 按钮即可下载；文献下载仅供个人学习使用，不得用于任何商业目的
+| ID | Title | Link |
 | ---- | ------------------------------------------------------------ | ---- |
+| 0    | Liu, F.    Q; Sun, T. J.; Tang, P.*; Zhang, H. D and Qiu, F. 'Understanding chain    folding morphology of semicrystalline polymers based on a rod–coil    multiblock model', Soft Matter 2017, 13: 8250-8263. |<a href="https://github.com/tangp69/papers/raw/master/LiuFQ-2017.pdf" target="_blank">Download</a>|
 | 1    | Sun, T. J.; Tang, P.*;  Qiu, F.* and Shi, A.C. 'Emergence of ordered network mesophases in kinetic  pathways of order–order transition for linear ABC triblock terpolymers',  Macromol. Theory Simul. 2017, 26(4): 1700023. |<a href="" target="_blank">Download</a>|
 | 1    | Ji, N.; Tang, P.*; Qiu,  F.* and Shi, A. C. 'Kinetic Pathways of Lamellae to Gyroid Transition in  Weakly Segregated Diblock Copolymers', Macromolecules 2015, 48, 8681−8693. |<a href="" target="_blank">Download</a>|
 | 2    | Xin, S. L.; Li, R. and  Tang, P.* 'Synthesis and microphase separation of PS-b-P(MA-alt-St) block  copolymers and their ionomers for the design of polymer crystallization  nucleation agents', Macromol. Chem. Phys. 2015, 216, 301-313. |<a href="" target="_blank">Download</a>|
