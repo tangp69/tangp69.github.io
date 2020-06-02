@@ -20,9 +20,11 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Ping Tang - Fudan University 复旦大学
+title   : 唐萍 - 复旦大学 ｜ Ping Tang @ Fudan
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  1990年本科毕业于原成都科技大学（现四川大学）塑料工程系，1999年于四川大学获博士学位。
+  1993-2000年在四川大学高分子科学与工程学院任教；
+  2001年赴英国帝国理工大学(Imperial College)化工系与J.S.Higgins教授合作，研究含无规共聚物共混物相行为及相分离动力学。
 
 
 ## => Language and Timezone
@@ -38,7 +40,7 @@ author:
   name      : 唐萍
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : 唐萍，复旦大学教授，博导
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
