@@ -65,6 +65,7 @@ key: page-about
 ## 发表论文
 
 点击右侧 Download 按钮即可下载；文献下载仅供个人学习使用，不得用于任何商业目的
+
 | ID | Title | Link |
 | ---- | ------------------------------------------------------------ | ---- |
 | 0    | Liu, F.    Q; Sun, T. J.; Tang, P.*; Zhang, H. D and Qiu, F. 'Understanding chain    folding morphology of semicrystalline polymers based on a rod–coil    multiblock model', Soft Matter 2017, 13: 8250-8263. |<a href="https://github.com/tangp69/papers/raw/master/LiuFQ-2017.pdf" target="_blank">Download</a>|
