@@ -24,6 +24,8 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-publications
+show_title: false
+show_edit_on_github: true
 ---
 
 ## 承担科研项目
