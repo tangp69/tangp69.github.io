@@ -30,25 +30,9 @@ show_edit_on_github: true
 
 ## 组内成员
 
-
-### 段华
-
-```
-博士后
-E-mail：14110440011@fudan.edu.cn
-研究方向：高熔体强度PET的支化改性研究
-```
-
-### 聂智军
-
-```
-博士后
-Tel：021-65642867
-E-mail：niexg2010@163.com
-研究方向：复杂流体流变学、高分子材料改性
-```
-
 ### 刘法强
+
+<img src="https://s1.ax1x.com/2020/06/03/taIwvj.jpg" alt="刘法强" height="auto" width="35%" />
 
 ```
 2013 级直博生
@@ -59,6 +43,8 @@ E-mail：faqliu@foxmail.com
 
 ### 孙同杰
 
+<img src="https://s1.ax1x.com/2020/06/03/tahUC4.png" alt="孙同杰" height="auto" width="35%" />
+
 ```
 2014 级博士生
 Tel：021-65642863
@@ -68,6 +54,8 @@ E-mail：tjsun14@fudan.edu.cn
 
 ### 邵靖宇
 
+<img src="https://s1.ax1x.com/2020/06/03/taId2Q.jpg" alt="邵靖宇" height="auto" width="35%" />
+
 ```
 2017 级直博生
 E-mail：17110440009@fudu.edu.cn
@@ -76,12 +64,23 @@ E-mail：17110440009@fudu.edu.cn
 
 ### 蒋诺斐
 
+<img src="https://s1.ax1x.com/2020/06/03/tahwvR.jpg" alt="蒋诺斐" height="auto" width="35%" />
+
 ```
 2017 级硕士生
 E-mail：17210440011@fudan.edu.cn
 研究方向：聚电解质的密度泛函理论，高分子相变理论
 ```
 
+### 张薇
+
+<img src="https://s1.ax1x.com/2020/06/03/taha8J.png" alt="张薇" height="auto" width="35%" />
+
+```
+2018 级直博生
+E-mail：18110440015@fudan.edu.cn
+研究方向：高分子材料的高性能化
+```
 
 ## 已出站博士后
 
