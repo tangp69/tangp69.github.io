@@ -24,7 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-activity
-show_title: true
+show_title: false
 show_edit_on_github: true
 ---
 
