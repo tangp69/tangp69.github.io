@@ -7,11 +7,11 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  研究方向
+  zh-Hans : &ZH_HANS  主要研究方向
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  研究方向
+  zh-Hant : &ZH_HANT  主要研究方向
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
   ko      : &KO       Research
@@ -24,7 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-research
-show_title: false
+show_title: true
 show_edit_on_github: true
 ---
 
