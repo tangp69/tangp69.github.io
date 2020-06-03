@@ -35,7 +35,7 @@ show_edit_on_github: true
 <img src="https://s1.ax1x.com/2020/06/03/taIwvj.jpg" alt="刘法强" height="auto" width="35%" />
 
 ```
-2013 级直博生
+刘法强：2013 级直博生
 Tel：021-65642863
 E-mail：faqliu@foxmail.com
 研究方向：复杂高分子体系相行为理论及模拟
@@ -46,7 +46,7 @@ E-mail：faqliu@foxmail.com
 <img src="https://s1.ax1x.com/2020/06/03/tahUC4.png" alt="孙同杰" height="auto" width="35%" />
 
 ```
-2014 级博士生
+孙同杰：2014 级博士生
 Tel：021-65642863
 E-mail：tjsun14@fudan.edu.cn
 研究方向：高分子结晶理论
@@ -57,7 +57,7 @@ E-mail：tjsun14@fudan.edu.cn
 <img src="https://s1.ax1x.com/2020/06/03/taId2Q.jpg" alt="邵靖宇" height="auto" width="35%" />
 
 ```
-2017 级直博生
+邵靖宇：2017 级直博生
 E-mail：17110440009@fudu.edu.cn
 研究方向：含链刚性高分子体系的相行为及相变机理
 ```
@@ -67,7 +67,7 @@ E-mail：17110440009@fudu.edu.cn
 <img src="https://s1.ax1x.com/2020/06/03/tahwvR.jpg" alt="蒋诺斐" height="auto" width="35%" />
 
 ```
-2017 级硕士生
+蒋诺斐：2017 级硕士生
 E-mail：17210440011@fudan.edu.cn
 研究方向：聚电解质的密度泛函理论，高分子相变理论
 ```
@@ -77,7 +77,7 @@ E-mail：17210440011@fudan.edu.cn
 <img src="https://s1.ax1x.com/2020/06/03/taha8J.png" alt="张薇" height="auto" width="35%" />
 
 ```
-2018 级直博生
+张薇：2018 级直博生
 E-mail：18110440015@fudan.edu.cn
 研究方向：高分子材料的高性能化
 ```
