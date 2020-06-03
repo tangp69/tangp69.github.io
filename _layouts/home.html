@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: article
 titles:
   # @start locale config
   en      : &EN       Home
@@ -24,36 +24,18 @@ titles:
   fr-LU   : *FR
   # @end locale config
 show_title: false
-
-page:
-  mode: immersive
-  show_title: false
-  header:
-    theme: dark
-  article_header:
-    type: cover
-    image:
-      src: /docs/assets/images/cover2.jpg
-
-<!-- articles:
-  data_source: paginator.posts
-  type: item
-  article_type: BlogPosting
-  show_cover: false
-  show_excerpt: true
-  show_readmore: true
-  show_info: true -->
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: cover
+  image:
+    src: /docs/assets/images/cover2.jpg
 ---
 
-<!-- <div class="layout--home">
-  {%- include paginator.html -%} -->
-</div>
 <script>
   {%- include scripts/home.js -%}
 </script>
-
-<!-- {{ content }} -->
-
 
 <p>唐萍，女，复旦大学高分子科学系教授，博士生导师。</p>
 
