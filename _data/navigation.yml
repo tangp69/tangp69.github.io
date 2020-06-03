@@ -47,7 +47,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /about.html
+    url: /2020/06/01/pingtang.html
 
   - titles:
       # @start locale config
