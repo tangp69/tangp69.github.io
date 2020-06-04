@@ -38,7 +38,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : person # "person" (default), "organization"
   name      : 唐萍
-  url       :
+  url       : www.pingtang.ga
   avatar    : # path or url of avatar image (square)
   bio       : 唐萍，复旦大学教授，博导
   email     : pingtang@fudan.edu.cn
@@ -86,7 +86,7 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
+mathjax: true # false (default), true
 mathjax_autoNumber: # false (default), true
 
 ## Mermaid
@@ -161,7 +161,7 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
+  provider: false # "default" (default), false, "google", "custom"
 
   ## Google Custom Search Engine
   google:
