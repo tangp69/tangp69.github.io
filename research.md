@@ -28,6 +28,26 @@ show_title: false
 show_edit_on_github: true
 ---
 
+# 主要研究方向
+
+- [半刚性高分子的自洽场理论及数值方法](https://www.pingtang.ga/research.html#%E5%8D%8A%E5%88%9A%E6%80%A7%E9%AB%98%E5%88%86%E5%AD%90%E7%9A%84%E8%87%AA%E6%B4%BD%E5%9C%BA%E7%90%86%E8%AE%BA%E5%8F%8A%E6%95%B0%E5%80%BC%E6%96%B9%E6%B3%95)
+
+- [弯曲曲面上的高分子接枝刷、任意复杂几何形状基底受限的嵌段高分子](https://www.pingtang.ga/research.html#%E5%BC%AF%E6%9B%B2%E6%9B%B2%E9%9D%A2%E4%B8%8A%E7%9A%84%E9%AB%98%E5%88%86%E5%AD%90%E6%8E%A5%E6%9E%9D%E5%88%B7%E4%BB%BB%E6%84%8F%E5%A4%8D%E6%9D%82%E5%87%A0%E4%BD%95%E5%BD%A2%E7%8A%B6%E5%9F%BA%E5%BA%95%E5%8F%97%E9%99%90%E7%9A%84%E5%B5%8C%E6%AE%B5%E9%AB%98%E5%88%86%E5%AD%90)
+
+- [非均相体系动力学](https://www.pingtang.ga/research.html#%E9%9D%9E%E5%9D%87%E7%9B%B8%E4%BD%93%E7%B3%BB%E5%8A%A8%E5%8A%9B%E5%AD%A6)
+
+- [嵌段高分子在稀溶液中的聚集行为](https://www.pingtang.ga/research.html#%E5%B5%8C%E6%AE%B5%E9%AB%98%E5%88%86%E5%AD%90%E5%9C%A8%E7%A8%80%E6%BA%B6%E6%B6%B2%E4%B8%AD%E7%9A%84%E8%81%9A%E9%9B%86%E8%A1%8C%E4%B8%BA)
+
+- [聚丙烯(PP)拉伸薄膜专用料生产技术及工业应用](https://www.pingtang.ga/research.html#%E8%81%9A%E4%B8%99%E7%83%AFpp%E6%8B%89%E4%BC%B8%E8%96%84%E8%86%9C%E4%B8%93%E7%94%A8%E6%96%99%E7%94%9F%E4%BA%A7%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%B7%A5%E4%B8%9A%E5%BA%94%E7%94%A8)
+
+- [聚酯成核剂及其在热塑性弹性体中的应用](https://www.pingtang.ga/research.html#%E8%81%9A%E9%85%AF%E6%88%90%E6%A0%B8%E5%89%82%E5%8F%8A%E5%85%B6%E5%9C%A8%E7%83%AD%E5%A1%91%E6%80%A7%E5%BC%B9%E6%80%A7%E4%BD%93%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8)
+
+- [PET的成核剂设计及其工程化应用](https://www.pingtang.ga/research.html#pet%E7%9A%84%E6%88%90%E6%A0%B8%E5%89%82%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%85%B6%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%BA%94%E7%94%A8)
+
+- [PET工程塑料的成核剂设计](https://www.pingtang.ga/research.html#PET工程塑料的成核剂设计)
+
+- [聚烯烃的新型长效抗静电剂制备](https://www.pingtang.ga/research.html#聚烯烃的新型长效抗静电剂制备)
+
 ## 半刚性高分子的自洽场理论及数值方法
 
 很多实际运用的高分子体系中存在一定程度的链刚性。例如，为了提高材料的力学强度， 通常在柔性单元中引入刚性单体与之共聚；应用于光电器件的含共轭键刚性单元的嵌段高分子； 合成多肽；生物大分子，蛋白质，聚电解质及DNA等都是半刚性高分子。我们用蠕虫状链（wormlike chain） 代替柔性高分子的Gaussian chain模型，发展了各种含有半刚性特征的主链/侧链液晶高分子的自洽平均场理论。 然而，相比于高斯链，由于增加了链段的取向自由度，求解蠕虫状链的构象微分方程要困难许多， 整个计算不仅维数更高，而且在求解关于链段分布的扩散方程时难于使用高斯链体系中非常有效的谱方法和实空间方法。 我们通过采用三角网格化离散的单位球面描述链段的取向 ，直接在3D实空间用有限体积法解出含有链段取向的链传播子的扩散方程。 从而可以方便地考虑链段的三维空间取向。如图1所示，我们得到了刚－柔嵌段高分子的组成分布在1D空间的相图。 
@@ -134,13 +154,13 @@ TPEE是含有聚酯硬段和聚醚软段的嵌段共聚物，聚醚软段和未�
 
 异相成核的成核位垒显著低于均相成核，且成核速率较快，其作用原理是使高分子熔体从亚稳态转变至稳态的过程，因此添加成核剂使高分子通过异相成核而结晶是改善高分子结晶行为最为有效的方法。事实上，成核剂起到预取向的作用，使高分子链向成核剂表面迁移并在其表面结晶生长。目前，工业上提高PET结晶速率的首选方法是添加有效的成核剂，这些成核剂主要分为无机成核剂、有机成核剂和高分子成核剂三大类。无机成核剂包括蒙脱土、云母、金属氧化物和纳米碳材料等，其高比表面积和高熔点等性质可为PET结晶提供大量的成核位点，降低PET的成核位垒。但是，无机成核剂存在与PET之间相互作用较弱、添加量大、分散困难、容易造成PET力学性能下降等缺点。有机成核剂主要有芳香羧酸的碱金属盐、芳香烃的磺酸盐和有机磷化物的Mg、Zn盐等。日本三菱人造丝公司用苯甲酸钠和瑞士克莱恩公司的长链线性饱和羧酸钠盐作为PET成核剂已用于工业生产中。碱金属羧酸盐在高温下分解所得的碱金属离子与PET的酸性末端反应生成PET-COOM（M=Na、K），这种带有离子端基的PET链在熔融结晶过程中形成的离子簇可以作为成核剂加快PET分子链的有序排列。离聚物作为PET的成核剂也已应用于工业生产中，目前商业化的离聚物型PET成核剂有乙烯甲基丙烯酸钠（Surlyn树脂，杜邦公司），乙烯丙烯酸钠（AClyn树脂，霍尼韦尔公司）等。其中，Surlyn树脂的离子基团含量较低（约5 mol%），其成核机理与有机成核剂羧酸盐类似，离聚物与PET反应生成含离子基团末端的PET分子链，这些离子基团末端聚集形成离子簇并作为异相成核的结晶位点从而加快PET的成核速率。
 
-<img src="https://s1.ax1x.com/2020/06/07/t28MIH.png" alt="图片 3" width="95%" height="auto" />
+<img src="https://s1.ax1x.com/2020/06/07/t28MIH.png" alt="图片 3" width="75%" height="auto" />
 
 <center>嵌段离聚物在PET基体中微相分离的模型图</center>
 
 我们通过分析成核机理，提出了成核剂的设计思路。目前我们的前期工作设计并合成了苯乙烯（St）和马来酸酐（MA）的交替共聚物（SMA）和嵌段共聚物（PS-b-P(St-alt-MA)）以及它们的离聚物（SMA-Na和BI），并原位合成了离聚物/有机蒙脱土（OMMT）纳米复合材料，并取得了一些进展：与含MA较少的无规共聚物的离聚物相比，SMA-Na与PET的相容性较好，并可显著改善PET的结晶行为；由于MA嵌段与PET的相容性较好，因此它可以使离聚物更好地分散于PET基体中；聚苯乙烯（PS）嵌段形成的微相区域不仅为高分子链结晶提供了界面而且还可以增大晶核尺寸，使晶核快速增大到临界尺寸并突破能量位垒，从而促进晶体的生长。
 
-<img src="https://s1.ax1x.com/2020/06/07/t28doQ.png" alt="图片 4" width="95%" height="auto" />
+<img src="https://s1.ax1x.com/2020/06/07/t28doQ.png" alt="图片 4" width="75%" height="auto" />
 
 <center>纳米复合离聚物的设计</center>
 
@@ -166,4 +186,22 @@ TPEE是含有聚酯硬段和聚醚软段的嵌段共聚物，聚醚软段和未�
 4. Tang, P. et al. Poly (Styrene-co-Maleic Anhydride) Ionomers as Nucleating Agent on the Crystallization Behavior of Poly (ethylene terephthalate), J. Appl. Polym. Sci., 2015, 132, 41240.
 5. Tang, P.et al. Synthesis and microphase separation of PS-b-P(MA-alt-St) block copolymers and their ionomers for the design of polymer crystallization nucleation agents, Macromolecular Chemistry and Physics, 2015, 216, 301-313.
 6. Tang, P. et al. In situ polymerization of poly(styrene-alt-maleic anhydride)/organic montmorillonite nanocomposites and their ionomers as crystallization nucleating agents for poly(ethylene terephthalate), J. Ind. Eng. Chem. 2016, 38 167-174.
+
+## PET工程塑料的成核剂设计
+
+对苯二甲酸乙二酯(PET)成本低，性能优异。结晶速率低限制了其作为工程塑料的应用。目前专用料靠进口加入成核剂能有效提高结晶速率和结晶度。
+
+<img src="https://s1.ax1x.com/2020/06/07/t2tmpd.png" alt="pic0" width="75%" height="auto" />
+
+## 聚烯烃的新型长效抗静电剂制备
+
+聚烯烃综合性能优异，但制品在使用过程中易积聚静电，导致火花放电，引发燃爆等灾害。目前多采用加入小分子抗静电剂改性，但持久性差。
+
+<img src="https://s1.ax1x.com/2020/06/07/t2tkTO.png" alt="利用嵌段共聚物与低分子量抗静电剂分子的自组装，设计本体抗静电材料"  width="65%" height="auto" />
+
+<center>利用嵌段共聚物与低分子量抗静电剂分子的自组装，设计本体抗静电材料</center>
+
+<img src="https://s1.ax1x.com/2020/06/07/t2tVte.png" alt="利用低分子量抗静电剂分子与纳米粒子的自组装，设计持久型本体抗静电材料" width="65%" height="auto" />
+
+<center>利用低分子量抗静电剂分子与纳米粒子的自组装，设计持久型本体抗静电材料</center>
 
