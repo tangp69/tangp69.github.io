@@ -30,28 +30,6 @@ show_edit_on_github: true
 
 ## 组内成员
 
-### 刘法强
-
-<img src="https://s1.ax1x.com/2020/06/03/taIwvj.jpg" alt="刘法强" height="auto" width="35%" />
-
-```
-刘法强：2013 级直博生
-Tel：021-65642863
-E-mail：faqliu@foxmail.com
-研究方向：复杂高分子体系相行为理论及模拟
-```
-
-### 孙同杰
-
-<img src="https://s1.ax1x.com/2020/06/03/tahUC4.png" alt="孙同杰" height="auto" width="35%" />
-
-```
-孙同杰：2014 级博士生
-Tel：021-65642863
-E-mail：tjsun14@fudan.edu.cn
-研究方向：高分子结晶理论
-```
-
 ### 邵靖宇
 
 <img src="https://s1.ax1x.com/2020/06/03/taId2Q.jpg" alt="邵靖宇" height="auto" width="35%" />
@@ -102,6 +80,8 @@ E-mail:19110440008@fudan.edu.cn
 
 ## 已毕业博士
 
+- **刘法强**：2019.10月获博士学位，现在上海霍尼韦尔公司 (Honeywell) 从事研发工作
+- **孙同杰**：2019.6月获博士学位，现在上海埃克森美孚化工公司 (ExxonMobil) 从事研发工作
 - **李锐**（12博士）；
 - **邢士理**（11博士），上海阿克苏诺贝尔化学公司；
 - **高杰**（10直博），上海海通证券；
