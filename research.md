@@ -43,8 +43,9 @@ show_edit_on_github: true
 高分子的长链结构使其表现为独特的粘弹性行为，是典型的复杂流体。研究复杂流体的动力学及流变行为，不仅对于高分子材料的成型加工及各种形状制品的性能优化具有重要实际意义，更是理解高分子的分子结构与性能之间关系的重要基础和研究方法。目前，我们针对高分子链中包含有可形成非共价相互作用的粘性组分的缔合高分子这种复杂流体体系，提出了理论与模拟相结合的研究方案。理论方面，我们在经典Rouse模型的基础上提出了将缔合作用转化为作用在粘性组分上的表观摩擦力的Sticky Rouse模型，从而通过求解模型中粘性Rouse-Zimm矩阵的本征值问题得到决定体系线性粘弹性的本征弛豫模式。与此同时，我们通过分子动力学模拟的方法进一步探究了缔合高分子体系，不仅验证了Sticky Rouse模型对粘弹性的预测，也指出了在实际的缔合高分子体系中理论模型中所需要完善的细节和挑战。
 
 <img src="https://s1.ax1x.com/2020/06/16/NiO1je.png" alt="research1_1" width="95%" height="auto" />
-<img src="https://s1.ax1x.com/2020/06/16/NiO8nH.png"alt="research1_2" width="47%" height="auto" />
-<img src="https://s1.ax1x.com/2020/06/16/NiOGBd.png"alt="research1_3" width="45%" height="auto" />
+
+<img src="https://s1.ax1x.com/2020/06/16/NiO8nH.png" alt="research1_2" width="47%" height="auto" />
+<img src="https://s1.ax1x.com/2020/06/16/NiOGBd.png" alt="research1_3" width="45%" height="auto" />
 
 
 ## 半刚性高分子的自洽场理论及数值方法
