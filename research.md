@@ -78,6 +78,9 @@ show_edit_on_github: true
 
 ## 聚丙烯(PP)拉伸薄膜专用料生产技术及工业应用
 
+- 张红东，唐萍，何军坡，杨玉良
+- 联系人：<a href="http://polymer.fudan.edu.cn/Data/View/1636" target="_blank">张红东</a> 教授，Email: <a href="mailto:zhanghd@fudan.edu.cn">zhanghd@fudan.edu.cn</a>
+
 自从1954年诺贝尔化学奖Ziggler和Natta发明Ziggler-Natta催化剂以来，等规聚丙烯(i-PP)遂成为最重要的高分子材料之一。聚丙烯兼具较高的模量和较好的延展性，通常被视为硬弹性材料，对其结构的合理调控和设计赋予了各种PP牌号多元的成型加工性能和材料使用性能，使得PP的用途极为广泛，涵盖薄膜、纤维、管材及注塑件制品，还因其焚化无有毒物产生而大量用于包装及汽车领域。2015年PP需求量达到每年6200百万吨，占热塑性塑料26%的份额。多年来，我们在“973项目：高性能化聚烯烃项目”的资助下，总结了一系列PP专用料的生产技术，通过在制备工艺上对其化学结构进行等规序列结构分布上的优化设计和对凝聚态结构调控，可以很好地满足各种PP的成型加工和最终性能上的刚韧平衡要求，如高速双向拉伸BOPP膜、PPR管材、HIPP等。
 
 <img src="https://s1.ax1x.com/2020/06/07/tgDejH.png" alt="pic02" width="95%" height="auto" />
