@@ -31,7 +31,7 @@ show_edit_on_github: true
 # 主要研究方向
 
 -	[高分子复杂流体的动力学、流变行为及其在成型加工中的应用](#高分子复杂流体的动力学及流变行为)
--	[半刚性高分子体系构象统计及相行为的自洽场理论](https://www.pingtang.ga/research.html#%E9%9D%9E%E5%9D%87%E7%9B%B8%E4%BD%93%E7%B3%BB%E5%8A%A8%E5%8A%9B%E5%AD%A6)
+-	[半刚性高分子体系构象统计及相行为的自洽场理论](#半刚性高分子的自洽场理论及数值方法)
 -	<font color='#F3323F'><b>将高分子理论和计算机模拟手段服务于国民经济主战场，理论与实验并重：高分子助剂的分子结构设计及其在材料高性能化中的应用，主要包括：</b></font>
     - [<font color='black' style="font-weight:lighter">PET的成核剂设计及其工程化应用</font>](https://www.pingtang.ga/research.html#pet%E7%9A%84%E6%88%90%E6%A0%B8%E5%89%82%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%85%B6%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%BA%94%E7%94%A8)
     - [<font color='black' style="font-weight:lighter">聚酯成核剂及其在热塑性弹性体中的应用</font>](https://www.pingtang.ga/research.html#%E8%81%9A%E9%85%AF%E6%88%90%E6%A0%B8%E5%89%82%E5%8F%8A%E5%85%B6%E5%9C%A8%E7%83%AD%E5%A1%91%E6%80%A7%E5%BC%B9%E6%80%A7%E4%BD%93%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8)
