@@ -30,7 +30,7 @@ show_edit_on_github: true
 
 # 主要研究方向
 
--	[高分子复杂流体的动力学、流变行为及其在成型加工中的应用](https://www.pingtang.ga/research.html#%E5%BC%AF%E6%9B%B2%E6%9B%B2%E9%9D%A2%E4%B8%8A%E7%9A%84%E9%AB%98%E5%88%86%E5%AD%90%E6%8E%A5%E6%9E%9D%E5%88%B7%E4%BB%BB%E6%84%8F%E5%A4%8D%E6%9D%82%E5%87%A0%E4%BD%95%E5%BD%A2%E7%8A%B6%E5%9F%BA%E5%BA%95%E5%8F%97%E9%99%90%E7%9A%84%E5%B5%8C%E6%AE%B5%E9%AB%98%E5%88%86%E5%AD%90)
+-	[高分子复杂流体的动力学、流变行为及其在成型加工中的应用](#高分子复杂流体的动力学及流变行为)
 -	[半刚性高分子体系构象统计及相行为的自洽场理论](https://www.pingtang.ga/research.html#%E9%9D%9E%E5%9D%87%E7%9B%B8%E4%BD%93%E7%B3%BB%E5%8A%A8%E5%8A%9B%E5%AD%A6)
 -	将高分子理论和计算机模拟手段服务于国民经济主战场，理论与实验并重：高分子助剂的分子结构设计及其在材料高性能化中的应用，主要包括：
     - [PET的成核剂设计及其工程化应用](https://www.pingtang.ga/research.html#pet%E7%9A%84%E6%88%90%E6%A0%B8%E5%89%82%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%85%B6%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%BA%94%E7%94%A8)
@@ -38,6 +38,13 @@ show_edit_on_github: true
     - [聚烯烃的新型长效抗静电剂制备](https://www.pingtang.ga/research.html#%E8%81%9A%E7%83%AF%E7%83%83%E7%9A%84%E6%96%B0%E5%9E%8B%E9%95%BF%E6%95%88%E6%8A%97%E9%9D%99%E7%94%B5%E5%89%82%E5%88%B6%E5%A4%87)
     - [聚丙烯(PP)拉伸薄膜专用料生产技术及工业应用](https://www.pingtang.ga/research.html#%E8%81%9A%E4%B8%99%E7%83%AFpp%E6%8B%89%E4%BC%B8%E8%96%84%E8%86%9C%E4%B8%93%E7%94%A8%E6%96%99%E7%94%9F%E4%BA%A7%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%B7%A5%E4%B8%9A%E5%BA%94%E7%94%A8)
 
+## 高分子复杂流体的动力学及流变行为
+
+高分子的长链结构使其表现为独特的粘弹性行为，是典型的复杂流体。研究复杂流体的动力学及流变行为，不仅对于高分子材料的成型加工及各种形状制品的性能优化具有重要实际意义，更是理解高分子的分子结构与性能之间关系的重要基础和研究方法。目前，我们针对高分子链中包含有可形成非共价相互作用的粘性组分的缔合高分子这种复杂流体体系，提出了理论与模拟相结合的研究方案。理论方面，我们在经典Rouse模型的基础上提出了将缔合作用转化为作用在粘性组分上的表观摩擦力的Sticky Rouse模型，从而通过求解模型中粘性Rouse-Zimm矩阵的本征值问题得到决定体系线性粘弹性的本征弛豫模式。与此同时，我们通过分子动力学模拟的方法进一步探究了缔合高分子体系，不仅验证了Sticky Rouse模型对粘弹性的预测，也指出了在实际的缔合高分子体系中理论模型中所需要完善的细节和挑战。
+
+<img src="https://s1.ax1x.com/2020/06/16/NiO1je.png" alt="research1_1" width="95%" height="auto" />
+<img src="https://s1.ax1x.com/2020/06/16/NiO8nH.png"alt="research1_2" width="47%" height="auto" />
+<img src="https://s1.ax1x.com/2020/06/16/NiOGBd.png"alt="research1_3" width="45%" height="auto" />
 
 
 ## 半刚性高分子的自洽场理论及数值方法
