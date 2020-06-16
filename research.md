@@ -79,17 +79,24 @@ show_edit_on_github: true
 自从1954年诺贝尔化学奖Ziggler和Natta发明Ziggler-Natta催化剂以来，等规聚丙烯(i-PP)遂成为最重要的高分子材料之一。聚丙烯兼具较高的模量和较好的延展性，通常被视为硬弹性材料，对其结构的合理调控和设计赋予了各种PP牌号多元的成型加工性能和材料使用性能，使得PP的用途极为广泛，涵盖薄膜、纤维、管材及注塑件制品，还因其焚化无有毒物产生而大量用于包装及汽车领域。2015年PP需求量达到每年6200百万吨，占热塑性塑料26%的份额。多年来，我们在“973项目：高性能化聚烯烃项目”的资助下，总结了一系列PP专用料的生产技术，通过在制备工艺上对其化学结构进行等规序列结构分布上的优化设计和对凝聚态结构调控，可以很好地满足各种PP的成型加工和最终性能上的刚韧平衡要求，如高速双向拉伸BOPP膜、PPR管材、HIPP等。
 
 <img src="https://s1.ax1x.com/2020/06/07/tgDejH.png" alt="pic02" width="95%" height="auto" />
+ 
+###	双轴拉伸聚丙烯(BOPP)专用料研发技术
 
-### 双轴拉伸聚丙烯(BOPP)专用料研发技术
+PP 由于熔体强度低，通常采用双轴拉伸加工薄膜制品，即在熔点以下、玻璃化温度以上的温度范围内(高弹态)把未拉伸的薄膜或片材在纵、横两个方向上拉伸。我们在深入研究 BOPP 拉伸工艺及拉伸流变行为的基础上，提出了包括 PP 在内的高分子熔体拉伸流动稳定性理论模型和满足高速BOPP生产所需要的链结构特征，从而建立了高速BOPP专用料制备技术的理论和方法。该成果在中国石化进行了卓有成效的推广应用，结合现有生产工艺在不增加成本的前提下，设计出 BOPP 专用料分子量、分子量分布、等规度及其序列分布所需要的聚合工艺和相应催化剂类型。在环管聚丙烯装置上实现了工业化生产，成功地解决了国内BOPP专用料在加工过程中出现的破膜问题，其性能全面达到并部分超过进口高速BOPP专用料。
 
-PP由于熔体强度低，通常采用双轴拉伸加工薄膜制品，即在熔点以下、玻璃化温度以上的温度范围内(高弹态)把未拉伸的薄膜或片材在纵、横两个方向上拉伸。我们在深入研究BOPP拉伸工艺及拉伸流变行为的基础上，提出了包括PP在内的高分子熔体拉伸流动稳定性理论模型和满足高速BOPP生产所需要的链结构特征，从而建立了高速BOPP专用料制备技术的理论和方法。该成果在中国石化进行了卓有成效的推广应用，结合现有生产工艺在不增加成本的前提下，设计出BOPP专用料分子量、分子量分布、等规度及其序列分布所需要的聚合工艺和相应催化剂类型。在环管聚丙烯装置上实现了工业化生产，成功地解决了国内BOPP专用料在加工过程中出现的破膜问题，其性能全面达到并部分超过进口高速BOPP专用料。
-
-### 锂电池隔膜专用树脂研发技术
+###	锂电池隔膜专用树脂研发技术
 
 随着锂电池产业的迅猛发展，隔膜作为锂离子电池的核心材料之一，普遍被认为是高技术壁垒、高附加值材料，受到广泛关注。锂离子电池隔膜性能对电池电解液的吸液、保液能力具有决定性的作用，直接决定了电池组装完成后的内阻、电流、充放电及循环寿命等关键特性，性能优异的隔膜对提高电池的综合性能有重要的作用。聚烯烃隔膜是迄今为止唯一通用的锂离子电池隔膜，2017年，锂电池隔膜行业产能达50亿$m^2$，产量达26亿$m^2$。随着国家大力发展电动汽车，锂电池隔膜市场潜力巨大，隔膜专用料多年来几乎被国外垄断，国内有几家企业试产隔膜专用PP后由于种种原因没能持续生产，目前高品质的锂电池隔膜原材料仍基本依靠进口，售价高出普通 PP 产品的2000-5000元/吨。所以，锂电池隔膜专用PP的工业开发有着良好的发展前景。
+
 锂电池隔膜专用PP需要有很好的加工拉膜性能，且需要有很高的等规度和结晶度、比较均匀的晶粒分布，在PP拉伸发生晶型转变时就可出现分布均匀的高孔隙率微孔，并保证隔膜制品具有一定的机械强度和挺度，满足电池装配及使用过程中的抗穿刺强度和拉伸强度。此外，为避免隔膜制品产生破孔影响电池的使用安全，隔膜专用PP的灰分含量一般低于普通PP灰分的1/3-1/4。通过我们的序列结构和凝聚态设计理论，可成功解决隔膜PP专用料的生产和加工问题。 
 
-我们设计的各种薄膜专用料是建立在理解高分子链结构-聚集态结构-高分子粘弹流变理论-性能之间关系的理论指导下的原创性技术，而非对高性能进口专用料的简单剖析和仿效，因此对各种高性能聚烯烃专用料的生产具有普遍指导意义。
+**我们设计的各种薄膜专用料是建立在理解高分子链结构-聚集态结构-高分子粘弹流变理论-性能之间关系的理论指导下的原创性技术，而非对高性能进口专用料的简单剖析和仿效，因此对各种高性能聚烯烃专用料的生产具有普遍指导意义。**
+
+已发表的部分研究工作:
+
+- Zhang, H. D. Effects of kinetics coefficients on ternary phase separation during the wet spinning process, J. Appl. Polym. Sci. 2012, 125, 3630-3637.
+
+- Zhang, H. D. Direct Observation and Modeling of Transient Nucleation in Isothermal Thickening of Polymer Lamellar Crystal Monolayers, Macromolecules. 2009, 42, 2886-2890.
 
 ## 聚酯成核剂及其在热塑性弹性体中的应用
 
@@ -184,12 +191,6 @@ TPEE是含有聚酯硬段和聚醚软段的嵌段共聚物，聚醚软段和未�
 4. Tang, P. et al. Poly (Styrene-co-Maleic Anhydride) Ionomers as Nucleating Agent on the Crystallization Behavior of Poly (ethylene terephthalate), J. Appl. Polym. Sci., 2015, 132, 41240.
 5. Tang, P.et al. Synthesis and microphase separation of PS-b-P(MA-alt-St) block copolymers and their ionomers for the design of polymer crystallization nucleation agents, Macromolecular Chemistry and Physics, 2015, 216, 301-313.
 6. Tang, P. et al. In situ polymerization of poly(styrene-alt-maleic anhydride)/organic montmorillonite nanocomposites and their ionomers as crystallization nucleating agents for poly(ethylene terephthalate), J. Ind. Eng. Chem. 2016, 38 167-174.
-
-## PET工程塑料的成核剂设计
-
-对苯二甲酸乙二酯(PET)成本低，性能优异。结晶速率低限制了其作为工程塑料的应用。目前专用料靠进口加入成核剂能有效提高结晶速率和结晶度。
-
-<img src="https://s1.ax1x.com/2020/06/07/t2tmpd.png" alt="pic0" width="75%" height="auto" />
 
 ## 聚烯烃的新型长效抗静电剂制备
 
