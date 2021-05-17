@@ -72,7 +72,7 @@ show_edit_on_github: true
 
 | Title | Link |
 | :----------------------------------------------------------- | ---- |
-| Jiang, N. F.; Zhang, H. D; Yang, Y. L. and Tang, P.\* \‘Molecular dynamics simulation of associative polymers: Understanding linear viscoelasticity from the sticky Rouse model\’, Journal of Rheology 2021, **in press** |<a href="aa.pdf" target="_blank">Download</a>|
+| Jiang, N. F.; Zhang, H. D; Yang, Y. L. and Tang, P.\* \‘Molecular dynamics simulation of associative polymers: Understanding linear viscoelasticity from the sticky Rouse model\’, Journal of Rheology 2021, **in press** |<a href="aaa.pdf" target="_blank">Download</a>|
 | Zhang, W.; Zhang, H. D.; Yang, Y. L. and Tang, P.\* \‘Poly\(maleic acid-co-acrylic acid\) Ionomer as Nucleating Agent on the Crystallization Behavior and Properties of Poly(ethylene terephthalate\)\’, Polymer Bulletin 2021, **in press** |<a href="https://github.com/tangp69/papers/raw/master/Zhang2021_Article_PolyMaleicAcid-co-acrylicAcidI.pdf" target="_blank">Download</a>|
 | Jiang, N. F.; Zhang, H. D; Tang, P.\* and Yang, Y. L.\* *‘Linear viscoelasticity of associative polymers: sticky Rouse model and the role of bridge’*, *Macromolecules* 2020, **53(9)**, 3438–3451 |<a href="https://github.com/tangp69/papers/raw/master/acs.macromol.0c00312.pdf" target="_blank">Download</a>|
 | Shao, J. Y.; Yang, Y. L.; Tang, P.\* and Yang, Y. L. *‘Investigating nucleation of phase transitions in rod-coil block copolymers’*, *Polymer* 2020, **210**, 122960 |<a href="https://github.com/tangp69/papers/raw/master/Shao-2020-Investigating-nucleation-of-phase-t.pdf" target="_blank">Download</a>|
