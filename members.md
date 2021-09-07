@@ -34,6 +34,8 @@ show_edit_on_github: true
 
 <img src="https://s1.ax1x.com/2020/06/03/taId2Q.jpg" alt="邵靖宇" height="auto" width="35%" />
 
+
+
 ```
 邵靖宇：2017 级直博生
 E-mail：17110440009@fudu.edu.cn
@@ -63,7 +65,7 @@ E-mail:19110440008@fudan.edu.cn
 
 ### 张璐
 
-<img src="https://s1.ax1x.com/2020/06/03/2021090701.jpg" alt="张璐" height="auto" width="35%" />
+<img src="https://imgtu.com/i/hIMVLF/01.jpg" alt="张璐" height="auto" width="35%" />
 
 ```
 张璐：2021级直博生
@@ -73,13 +75,15 @@ E-mail：21110440035@m.fudan.edu.cn
 
 ### 聂泽坤
 
-<img src="https://s1.ax1x.com/2020/06/03/2021090702.jpg" alt="聂泽坤" height="auto" width="35%" />
+<img src="https://imgtu.com/i/hIMEsU/02.jpg" alt="聂泽坤" height="auto" width="35%" />
 
 ```
 聂泽坤：2021级直博生
 E-mail：21110440021@m.fudan.edu.cn
 研究方向：缔合高分子体系动力学及流变行为
 ```
+
+
 
 ## 已出站博士后
 
