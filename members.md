@@ -65,7 +65,7 @@ E-mail:19110440008@fudan.edu.cn
 
 ### 张璐
 
-<img src="https://z3.ax1x.com/2021/09/07/hIMVLF.jpg" alt="张璐" height="auto" width="35%" />
+<img src="https://z3.ax1x.com/2021/09/07/hIMEsU.jpg" alt="张璐" height="auto" width="35%" />
 
 ```
 张璐：2021级直博生
@@ -75,7 +75,7 @@ E-mail：21110440035@m.fudan.edu.cn
 
 ### 聂泽坤
 
-<img src="https://z3.ax1x.com/2021/09/07/hIMEsU.jpg" alt="聂泽坤" height="auto" width="35%" />
+<img src="https://z3.ax1x.com/2021/09/07/hIMVLF.jpg" alt="聂泽坤" height="auto" width="35%" />
 
 ```
 聂泽坤：2021级直博生
