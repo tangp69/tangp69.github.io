@@ -32,5 +32,5 @@ show_edit_on_github: true
 
 ![Prof. Tang](https://s1.ax1x.com/2020/06/02/tNfATe.md.jpg)
 
-唐萍，女，复旦大学高分子科学系教授，博士生导师。
+唐萍，女，复旦大学高分子科学系教授，博士生导师。 
 
