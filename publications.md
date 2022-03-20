@@ -72,6 +72,7 @@ show_edit_on_github: true
 
 | Title | Link |
 | :----------------------------------------------------------- | ---- |
+| Shao J. Y.; Jiang, N. F.; Zhang, H. D; Yang, Y. L.; Tang, P.* ‘Sticky Rouse Model and Molecular Dynamics Simulation for Dual Polymer Networks’, Macromolecules 2022, 55(2), 535–549 |<a href="https://github.com/tangp69/papers/raw/master/acs.macromol_2022_Shao.pdf" target="_blank">Download</a>|
 | Jiang, N. F.; Zhang, H. D; Yang, Y. L. and Tang, P.\* \‘Molecular dynamics simulation of associative polymers: Understanding linear viscoelasticity from the sticky Rouse model\’, Journal of Rheology 2021, 65:527-547 |<a href="https://github.com/tangp69/papers/raw/master/Jiang2021Moleculardynamicssimulationofas.pdf" target="_blank">Download</a>|
 | Zhang, W.; Zhang, H. D.; Yang, Y. L. and Tang, P.\* \‘Poly\(maleic acid-co-acrylic acid\) Ionomer as Nucleating Agent on the Crystallization Behavior and Properties of Poly(ethylene terephthalate\)\’, Polymer Bulletin 2021, **in press** |<a href="https://github.com/tangp69/papers/raw/master/Zhang2021_Article_PolyMaleicAcid-co-acrylicAcidI.pdf" target="_blank">Download</a>|
 | Jiang, N. F.; Zhang, H. D; Tang, P.\* and Yang, Y. L.\* *‘Linear viscoelasticity of associative polymers: sticky Rouse model and the role of bridge’*, *Macromolecules* 2020, **53(9)**, 3438–3451 |<a href="https://github.com/tangp69/papers/raw/master/acs.macromol.0c00312.pdf" target="_blank">Download</a>|
@@ -139,3 +140,4 @@ show_edit_on_github: true
 - 唐萍，聂智军，张红东，“一种热塑性聚酯弹性体合金及其制备方法”，授权公告号：CN109943025B，授权公告日：2021.8.17
 
 - 唐萍，张薇，张红东，“聚对苯二甲酸乙二醇酯的成核剂及其制备方法和应用”，授权公告号：CN111019302B，授权公告日：2021.10.26
+- 唐萍，张薇，张红东，“插层型蒙脱土/马来酸-丙烯酸离聚物复合材料及其制备方法和应用”，授权公告号：CN112063090B，授权公告日：2022.3.18
