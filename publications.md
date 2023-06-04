@@ -72,6 +72,7 @@ show_edit_on_github: true
 
 | Title | Link |
 | :----------------------------------------------------------- | ---- |
+| Zhang, W.; Cui, X.; Zhang, H. D; Yang, Y. L.; Tang, P.* ‘Linear viscoelasticity, nonlinear rheology and applications of polyethylene terephthalate vitrimers’, J. Polym. Sci. 2023, in press |<a href="https://github.com/tangp69/papers/raw/master/acs02.pdf" target="_blank">Download</a>|
 | Cui, X.; Jiang, N. F.; Shao, J. Y.; Zhang, H. D; Yang, Y. L.; Tang, P.* ‘Linear and Nonlinear Viscoelasticities of Dissociative and Associative Covalent Adaptable Networks: Discrepancies and Limits’, Macromolecules 2023, 56, 772–784 |<a href="https://github.com/tangp69/papers/raw/master/acs01.pdf" target="_blank">Download</a>|
 | Zhang W.; Zhang, H. B.; Yang, L. P.; Tang, Y.; Tang, P.* ‘Enhanced crystallization and properties of poly(ethylene terephthalate) nanocomposites with zeolites from 3D to 2D topologies’, J. Ind. Eng. Chem. 2022, 109, 510–520 |<a href="https://github.com/tangp69/papers/raw/master/ZhangWei01.pdf" target="_blank">Download</a>|
 | Shao J. Y.; Jiang, N. F.; Zhang, H. D; Yang, Y. L.; Tang, P.* ‘Sticky Rouse Model and Molecular Dynamics Simulation for Dual Polymer Networks’, Macromolecules 2022, 55(2), 535–549 |<a href="https://github.com/tangp69/papers/raw/master/acs.macromol_2022_Shao.pdf" target="_blank">Download</a>|
